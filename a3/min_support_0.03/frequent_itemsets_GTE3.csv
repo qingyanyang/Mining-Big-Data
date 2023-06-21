@@ -1,0 +1,5 @@
+support,itemsets,length
+0.03744834710743802,"frozenset({'rolls/buns', 'whole milk', 'other vegetables'})",3
+0.031508264462809916,"frozenset({'other vegetables', 'whole milk', 'soda'})",3
+0.03176652892561983,"frozenset({'other vegetables', 'whole milk', 'yogurt'})",3
+0.03125,"frozenset({'rolls/buns', 'whole milk', 'soda'})",3
